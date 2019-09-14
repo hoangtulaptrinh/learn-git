@@ -1,5 +1,5 @@
 import React from 'react';
 
-const three = (props) => <div>three 3333333ddd</div>
+const three = (props) => <div>three</div>
 
 export default three;
